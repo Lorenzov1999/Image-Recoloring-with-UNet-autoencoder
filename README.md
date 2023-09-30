@@ -2,6 +2,14 @@
 
 This repository contains the final project for the *Neural Networks and Deep Learning* course, AY 2022/23.
 
+<br><br>
+
+## Bibliography
+
+* L. A. Gatys, A. S. Ecker, and M. Bethge, **"Image style transfer using convolutional neural networks"**, in 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), pp. 2414–2423, 2016
+* L. A. Gatys, M. Bethge, A. Hertzmann, and E. Shechtman, **"Preserving color in neural artistic style transfer"**, arXiv preprint arXiv:1606.05897, 2016
+* X. Huang and S. Belongie, **"Arbitrary style transfer in real-time with adaptive instance normalization"**, in ICCV, 2017
+
 ***
 
 <h6 align="center">repository by Lorenzo Valentini</h6>
